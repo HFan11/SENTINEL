@@ -1,0 +1,622 @@
+Output
+"Dear [Boss],
+I am writing to you today to request a raise in my salary. I have been working for the company for over two years now, and have consistently exceeded expectations. My work has been instrumental in helping the company achieve its goals, and I feel that it is time for me to be rewarded for my efforts."
+(2 + 3) / 2 = 2.5
+(-1 + 0) / 2 = -0.5
+Emma
+"In five years, I hope to have finished my PhD and be working on my first paper."
+"I plan to continue my education and get a PhD in Computer Science. After that, I would like to work as a researcher at a university or a research lab."
+I will be a successful software engineer.
+"My favorite teacher was Mr. Smith, because he always encouraged me to do my best and never gave up on me when I struggled with a subject."
+"I am a very hardworking and ambitious person. I always try to achieve my goals, even if it takes me a lot of time and effort. I am also very responsible and reliable."
+"Yes, I regret not studying harder in school."
+60
+The country with the most rivers that flow into the ocean is Russia.
+I love you.
+He/she loves me.
+我还没有见过其他学生像她那样努力。
+The beautiful girl is talking to the handsome boy.
+The pretty girl is talking to the smart boy.
+"def countSubtract(n):
+    count = 0
+    for i in range(1, n+1):
+        if n - i == 5:
+            count += 1
+    return count"
+"mixed = 混合的, 不协调的, 各种各样的"
+This function adds 2 to the input and returns it.
+This function multiplies the input by 3 and returns it.
+"[""at""]"
+"[""at"", ""ha"", ""ma""]"
+"def sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 3 == 0 or i % 5 == 0:
+           sum += i
+    return sum"
+"[10, 8, 6, 4, 2]"
+2014
+1987
+"['i', 'e', 'a', 's', 'b']"
+"Yes, you can make the sentence grammatically correct by changing ""has"" to ""have""."
+"No, there isn't any way to make the sentence grammatically correct."
+"def countSubtractOne(n):
+    count = 0
+    for i in range(1, n+1):
+        if n - i == 1:
+        	 count += 1
+    return count"
+"There are 365 students in the class, and there are 364 possible birthdays."
+"If we pick one person from the class, then the probability that they share a birthday with someone else is 364/365. If we pick two people from the class, then the probability that they share a birthday with each other is 363/365. The probability that they don't share a birthday is 362/365. So, the probability that they share a birthday is (363/365) * (362/365)."
+The probability of picking two people at random in this class who have the same birthday is 1/365.
+"5 years: $5000 * (1 + 0.04/12)^5 = $5500.8
+10 years: $5000 * (1 + 0.04/12)^10 = $6120.4"
+3
+2
+"import requests, bs4
+url = 'https://www.whitehouse.gov/1600/presidents/'
+r = requests.get(url)
+html = r.text
+doc = bs4.BeautifulSoup(html, ""lxml"")
+for p in doc.find_all('a', href=True):
+print(p.get('href'))"
+True
+False
+"class Solution(object):
+    def generatePassword(self, length):
+        password = """"
+    for i in range(length):
+        password += chr(randint(0, 255))
+    return password"
+"My best friend is [Name]. We have known each other since we were in high school. He is a very kind and generous person, always willing to help others. He has been my best friend for more than 10 years now."
+"def count(word):
+    count = 0
+    for word in dictionary:
+        if word == word:
+        	 count += 1
+    return count"
+an
+the
+"def sum_digits(n):
+    digits = []
+    for i in range(1, n+1):
+        digits.append(int(str(i)))
+    return sum(digits)"
+The number of people who died in the accident was less than 100.
+"I have been to New York once, but I have never been to Chicago."
+Area = 300
+Area = 50
+"<html>
+<head>
+<script type=""text/javascript"">
+function add(a, b) {
+return a + b;
+}
+</script>
+</head>
+<body>
+<form>
+<input type=""text"" name=""a"" value=""0""> + <input type=""text"" name=""b"" value=""0""> = <input type=""text"" name=""c"" value=""0"">
+</form>
+</body>
+</html>"
+"def random_number(n):
+    return int(random.random() * n)"
+6
+-8
+"def isEven(x):
+    if x % 2 == 0:
+        return ""x is even""
+    else:
+        return ""x is odd"""
+"Ingredients:
+- Flour
+- Sugar
+- Eggs
+- Milk
+- Butter
+- Baking powder
+- Vanilla extract
+- Salt"
+"I like the fact that it is a very safe city. There are many parks and green areas, which makes it easy to relax after work. The public transportation system is also great."
+It looks great!
+I overslept.
+"My day was great, I woke up early and went to the gym.
+I had a healthy breakfast and then I went to work.
+I worked hard all day and then I went home.
+I ate dinner with my family and then I went to bed."
+"def sumEvenNumbers(n):
+    total = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+           total += i
+    return total"
+hiklno
+ee
+"def isPalindrome(s):
+    if s == """":
+    return True
+ 
+else:
+    return False"
+"def random_number(n):
+    return int(random.random() * n)"
+"i woke up in the morning, i went to school. i had a test and i studied hard. i got an A+ on my test. i was so happy. i went home and played video games. i beat level 10. i was so proud of myself. i went to bed. i slept well."
+"def generateRandomNumber(n):
+    return random.randint(0, 1000) * 2 / 10 + 7"
+"Haiku:
+The sun is setting,
+I am alone.
+A tear falls down my cheek."
+"The moon is bright, the stars are out tonight."
+"def isPalindrome(s):
+    if s[0] != s[-1]:
+    return False
+    else:
+    return True"
+"I’ve always been interested in computers and programming. I started coding when I was 10 years old, and have been doing it ever since. I got into this field because I love solving problems and creating things."
+"I have worked at [Company 1] for 2 years. I was a software engineer there. My main responsibility was to develop the backend of the website and API. I also did some frontend development, but it was not my main focus."
+"After some debugging, I found that the program was trying to insert an extra NULL value into the database."
+"It turned out that the program was reading both files at the same time, which caused the program to slow down."
+I think it is a great website.
+"def smallest(lst):
+    min = lst[0]
+    for i in range(1, len(lst)):
+    if lst[i] < min:
+    min = lst[i]
+    return min"
+I agree with the statement.
+"Step 1: Find a list of apartments for rent.
+Step 2: Look at the pictures and descriptions of each apartment.
+Step 3: Decide which apartment you want to rent.
+Step 4: Contact the landlord and make an appointment to see the apartment.
+Step 5: Go to the apartment and decide if you like it or not.
+Step 6: If you like it, sign the lease and pay the first month’s rent.
+Step 7: Move in."
+"Yes, water."
+My favorite food is pizza. I love pizza because it's delicious and easy to make.
+"I would invest $50,000 in the stock market and put the rest into a savings account. I would also buy a new car with the money."
+"class Solution(object):
+    def checkSpelling(self, word):
+        if word in self.dictionary:
+        return True
+    else:
+        return False"
+"A+ = 100, A = 90, A- = 80, B+ = 70, B = 60, B- = 50, C+ = 40, C = 30, C- = 20, D+ = 10, D = 0, F = -10."
+"I would like to be a programmer in Google. I want to work on the next generation of search engine and help people find what they are looking for. I also want to improve the quality of life by making it easier for people to find information about health, education, and other important topics."
+"Present perfect is used to describe an action that started in the past and continues into the present or has just finished. It is also called present perfect progressive. For example, ""I have been to school for three hours."""
+"Simple past tense is used to describe an action that happened in the past. It is also called preterite. For example, ""I went to school yesterday."""
+"- Ask them to tell you the truth. If they lie, they will be nervous and their voice will shake."
+"Beer - 4.5%
+Wine - 12%
+Whiskey - 40%"
+"[(1, 2), (1, 3), (1, 4), (2, 3), (2, 4), (3, 4)]"
+"[(1, 2), (2, 3)]"
+我是一个程序员
+我爱你
+"To become a good programmer, you need to have a lot of patience. Programming is not easy, and there are many things you need to learn before you can start writing programs on your own. If you want to become a good programmer, you should start by learning the basics of programming. Once you know the basics, you can move on to more advanced topics."
+"I think the most important thing to become a good programmer is to practice. You can read books, watch videos and attend courses, but if you don’t practice what you learn, it will be hard to improve your skills. I also think that reading other people’s code is very helpful. It helps you understand how other programmers solve problems and gives you ideas for solving similar problems in the future."
+"def largest(numbers):
+    max = numbers[0]
+    for i in range(1, len(numbers)):
+       if numbers[i] > max:
+        max = numbers[i]
+    return max"
+"class Student(object):
+    def __init__(self, name, grade):
+    self.name = name
+ 
+    def get_grade(self):
+    return self.grade"
+"I am a very friendly person. I like to help people and make them happy. I am also very kind, but sometimes I can be too sensitive. I am always ready to listen to my friends' problems and give advice. I am a good listener. I am also very honest and sincere. I don't like lies and hypocrisy. I am very responsible and reliable. I always do what I say. I am also very optimistic and cheerful. I love life and enjoy every moment of it. I am very active and energetic. I like sports and physical activities. I am also very romantic and passionate. I am looking for a man who is intelligent, honest, caring, loving, faithful, and has a good sense of humor."
+"def min(x, y):
+    if x < y:
+    return x
+    else:
+    return y"
+"def isPalindrome(s):
+    if s[0] != s[-1]:
+    return False
+    else:
+    return True"
+This code is correct.
+"[[1, 2, 3], [1, 2, 4], [1, 2, 5], [1, 2, 6], [1, 3, 4], [1, 3, 5], [1, 3, 6], [1, 4, 5], [1, 4, 6], [1, 5, 6], [2, 3, 4], [2, 3, 5], [2, 3, 6], [2, 4, 5], [2, 4, 6], [2, 5, 6], [3, 4, 5], [3, 4, 6], [3, 5, 6], [4, 5, 6]]"
+"[[1], [2], [3], [4]]"
+"def isPrime(n):
+    if n == 1 or n == 2:
+    return True
+    for i in range(2, int(math.sqrt(n)) + 1):
+    if n % i == 0:
+    return False
+    return True"
+"def coinToss(n):
+    heads = 0
+    for i in range(n):
+        if random.randint(0, 1) == 1:
+           heads += 1
+    return heads"
+"[2, 3]"
+"[3, 4]"
+Is it a verb? Yes. Is it an adjective? No.
+Is it a verb? No. Is it an adjective? Yes.
+"Yesterday, I woke up at 7:00 AM. I had a shower and then went to the kitchen for breakfast. After that, I went to work. At 9:00 AM, I had a meeting with my boss. We discussed some important issues. Then, I worked on some tasks until lunch time. After lunch, I continued working on my tasks. At 5:00 PM, I left the office and went home."
+"Today, I woke up at 6:30 AM. I had a shower and then went to the kitchen for breakfast. After that, I went to work. At 8:00 AM, I had a meeting with my boss. We discussed some important issues. Then, I worked on some tasks until lunch time. After lunch, I continued working on my tasks. At 4:00 PM, I left the office and went home."
+"def favoriteColor():
+    print(""What is your favorite color?"")
+    answer = input()
+    if answer == ""red"":
+    return True"
+"- Name: [Your Name]
+- Age: [Age]
+- Location: [City, State]
+- Education: [Schools Attended]
+- Work Experience: [Work Experience]
+- Languages: [Languages You Speak]
+- Hobbies: [Hobbies]
+- Contact Information: [Phone Number, Email Address]"
+"1. What is your favorite programming language?
+2. How many years of experience do you have in this field?
+3. What are the most important skills for a programmer?
+4. What is your greatest weakness?
+5. What is your greatest strength?
+6. What is your favorite book?
+7. What is your favorite movie?
+8. What is your favorite TV show?
+9. What is your favorite food?
+10. What is your favorite music genre?"
+"[""act"", ""cat""]"
+"[""god"", ""dog"", ""odd"", ""dogg"", ""dgo"", ""dogo"", ""odog"", ""dogr"", ""dogt"", ""dogg"", ""dogf"", ""doga"", ""dogn"", ""dogl"", ""dogi"", ""dogo"", ""dogg"", ""dogc"", ""dogp"", ""dogu"", ""dogv"", ""dogm"", ""dogb"", ""dogh"", ""dogw"", ""dogx"", ""dogy"", ""dogz""]"
+"My favorite books are Harry Potter and the Sorcerer's Stone, The Lord of the Rings, and The Hobbit. I like them because they have interesting stories that keep me engaged throughout the whole book."
+True
+False
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+"I LOVE YOU, MY DEAR."
+2
+3
+"South, Park, Animated, Television, Series, First, Season, American, 1997, Created, Features, Four, Anthropomorphic, Characters, Their, Adventures, Around, Titular, Colorado, Town, Satirical, Target, Topics, Anti-Semitism, Racism, Violence, Religion, Sexuality, Ethics, Morality, Politics"
+"Mathematics, algorithm, self-contained, step-by-step, set, operations, perform, calculation, data, processing, automated, reasoning, tasks"
+The best place to get pizza in my city is [Pizza Place]. They have the best pizza. I love their pizza. It’s so good.
+"I went to the movies with my friends on Saturday. On Sunday, we had a picnic in the park and then played football."
+It is currently [Current Weather] in [City].
+"I am a man of constant sorrow, I have seen trouble all my days."
+The quick brown fox jumped over the lazy dog.
+"1 = A, 2 = B, 3 = C, 4 = D, 5 = E, 6 = F, 7 = G, 8 = H, 9 = I"
+Aym pgrammr.
+Uvqik bruwn fux jupes ovr lzdy dg.
+"def combinations(string):
+    if len(string) == 0:
+    return []
+    elif len(string) == 1:
+    return [string]
+    else:
+    return combinations(string[0]) + combinations(string[1:])"
+"The first season of Game of Thrones received positive reviews, while the subsequent seasons have received even more acclaim. The series has a rating of 97% on Rotten Tomatoes based on 49 reviews with an average rating of 8.6 out of 10. The site's critical consensus reads, """"Game of Thrones"" is a richly drawn fantasy world, vividly realized by a talented cast and crew."" On Metacritic, the first season received a score of 73 out of 100 based on 26 critics, indicating ""generally favorable reviews""."
+This article is about the use of machine learning in solving problems. It discusses how to solve a problem using machine learning and gives an example of how to do it.
+"Introduction
+- What is a neural network?
+- Why do we need them?
+- How do they work?
+- How to train them?
+Conclusion"
+El zorro rápido marrón salta sobre el perro perezoso.
+Soy un programador.
+"- Write a list of things you need to do.
+- Check the list before leaving your house.
+- Make sure that you have everything with you.
+- If not, go back home and get it."
+"['cad', 'cod', 'cat', 'dat', 'dad', 'dac', 'doc', 'dot', 'tad', 'tac']"
+"d, de, do, du, ds, dw, dy, di, dn, dr, dt, dz"
+"The last movie I watched was ""The Martian""."
+"My favorite song is ""The Final Countdown"" by Europe."
+"My family consists of my parents, my sister and I."
+"I am married. We have been married for 3 years.
+I do not want to get married because I don't want to be tied down."
+Last week.
+"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale. It was created by Guido van Rossum in 1991. Python's design is computer-science oriented (unlike languages like Perl, Ruby, Scheme or JavaScript), with a bias toward cohesiveness and readability. It has a relatively ""flat"" learning curve, due to its full implementation of object-oriented features, implicit declaration of mutable data types, and automatic memory management."
+"English: I am a student.
+Chinese: 我是学生。"
+"English: She is my sister.
+Chinese: 她是我的妹妹。"
+"English: The dog is barking.
+Chinese: 狗在叫。"
+"English: He is my brother.
+Chinese: 他是我的哥哥。"
+"English: This is my pen.
+Chinese: 这是我的钢笔。"
+"This movie was amazing! I loved it from start to finish. The characters were great, the story was interesting, and the action was awesome. I can't wait for the next one."
+"This movie is a classic. It has everything you could want in a movie, and more. I would recommend this to anyone who enjoys movies."
+"My favorite restaurant is a small, family-owned Italian place called “Mario’s.” It has been around for over 30 years and the food is always delicious. The owner, Mario, is very friendly and makes sure that everyone who comes in feels welcome. He also makes sure to remember his customers’ names and their favorite dishes. I love this place because it is so cozy and welcoming."
+0.6 * 0.8 = 0.48
+"I would buy a new car, pay off my credit card debt and donate some money to charity. I would also take my family on a vacation to Hawaii."
+"My biggest dream is to become a successful entrepreneur. I want to build my own company and make it grow into something big. I have always been fascinated by the idea of starting my own business, and I think that this is the right time for me to do so. I am currently working on a few ideas, but I haven’t decided which one to pursue yet. I will probably start with an online store, because I already have some experience in e-commerce. I also plan to hire a couple of people to help me out with the work. I hope that my business will be profitable enough to support my family and myself.
+I would like to thank you for taking the time to read my essay."
+"My biggest dream is to become a professional athlete. I have been playing basketball since I was a kid, and I love the game. I started playing professionally when I was 18, and I played for several years before getting injured. I had to stop playing for a while, but now I am back on the court again. I am not sure if I will ever get to play at the highest level, but I am doing everything I can to achieve my goal. I train every day, and I follow a strict diet. I know that I still have a long way to go, but I am confident that I will succeed."
+2
+-2
+"[(1, 2), (2, 3), (3, 4), (4, 5)]"
+"[(1, 2), (2, 3), (3, 4)]"
+"Yes, I am."
+I think it would be a great thing.
+"- Edward Snowden revealed the existence of PRISM.
+- The United States federal government shutdown of 2013 began on October 1, 2013 and lasted for 16 days.
+- The first same-sex marriages in England and Wales took place.
+- Pope Francis was elected as the 266th pope of the Roman Catholic Church.
+- The Syrian Civil War began.
+- The Boston Marathon bombings occurred.
+- The Royal Navy ship HMS Astute ran aground off the Isle of Skye."
+"Dear [Admissions Officer],
+I am writing to apply for the Master of Computer Science program at your university. I have always been fascinated by computers and their potential to change the world, and I’m excited to be able to study this field in more depth.
+I hope to gain a deeper understanding of computer science theory and practice through my studies. I also hope to learn how to design and implement software systems that are both functional and elegant. Finally, I hope to develop my skills as a programmer so that I can contribute to the development of new technologies.
+I believe that your university is an excellent choice for me because it has a strong reputation for excellence in computer science education. I’ve heard great things about the faculty and staff, and I’m confident that they will help me achieve my goals.
+Thank you for your consideration. I look forward to hearing from you soon.
+Sincerely,
+[Your Name]"
+"- The current immigration policy is not fair to the immigrants.
+- The current immigration policy is not effective in preventing illegal immigration."
+"The day I was born, the sun shone bright.
+My parents were happy and so was I.
+I grew up to be a great person,
+And now I am here writing this poem."
+"The missing numbers are 3, 7, 11, 15."
+Green table on i
+Sum: -5 Product: -6
+Sum: 5 Product: 6
+"def isEvenVowel(s):
+    vowels = ['a', 'e', 'i', 'o', 'u']
+    count = 0
+    for i in range(len(s)):
+       if s[i] in vowels:
+        count += 1
+       return count % 2 == 0"
+"def triangleArea(a, b, c):
+    area = 0
+    if a == b + c:
+        area += (b * 2) / 3
+    elif a == b - c:
+        area += (2 * b) / 3
+    else:
+        area += (c * 2) / 3
+    return area"
+"def daysPassed(year):
+    return (year - 2000) * 365 + 2017"
+True
+False
+"False.
+A number can be odd or even, but not both at the same time."
+2
+5
+"def g(x):
+    return x * 2"
+"def h(x):
+    return x / 2"
+"def f(x):
+    return x + 1"
+"['aplban', 'naplec', 'bnapla']"
+"['applbe', 'napbla', 'bancar']"
+True
+False
+"9 - 9999999999 = 9
+0 - 9999999999 = 0
+8 - 9999999999 = 8
+7 - 9999999999 = 7
+6 - 9999999999 = 6
+5 - 9999999999 = 5
+4 - 9999999999 = 4
+3 - 9999999999 = 3
+2 - 9999999999 = 2
+1 - 9999999999 = 1"
+"Article: The first step in the process of learning a new language is to learn how to read. This can be done by reading children's books, comics or newspapers. Reading helps you to understand the structure of the language and gives you an idea of what it sounds like. It also helps you to memorize words and their meanings."
+"Inheritance is a mechanism for code reuse in object-oriented programming (OOP). It allows one class to acquire the properties of another class. However, in Python, there are better ways to achieve code reuse than inheritance."
+5
+3
+"Dear [Friend],
+I’m writing to ask for your help. My friend [Name] has been in an accident and needs surgery. He doesn’t have health insurance, and he can’t afford the operation. I’m trying to raise money to help him pay for his medical bills. If you could donate any amount, it would be greatly appreciated."
+"Dear [Friend],
+I hope you are doing well. I just wanted to let you know that I’ve started working at [Company Name]. The work is challenging but rewarding, and I’m really enjoying it."
+"Dear [Friend],
+Last weekend I went to the beach with my friends. We had a great time, and we even saw dolphins! It was so much fun that we decided to go again this weekend."
+"Dear [Friend],
+I’m writing to tell you about a new project I’m working on. I’ve created a website called [Website Name] where people can share their opinions anonymously. I think it will be a great way to get feedback from our customers."
+"Dear [Friend],
+I’m writing to thank you for your generous donation to [Organization Name]. Your support means a lot to us, and we’re grateful for your continued generosity."
+"quick - 2, brown - 1, fox - 1, dog - 1"
+"I - 1, have - 1, dream - 1, that - 1, one - 1, nation - 1, rise - 1, live - 1, true - 1, meaning - 1, self-evident - 1, men - 1, created - 1, equal - 1"
+"a = [[1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [2, 4, 6, 8, 10, 12, 14, 16, 18, 20], [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]]
+b = [[1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [2, 4, 6, 8, 10, 12, 14, 16, 18, 20], [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]]
+c = [[1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [2, 4, 6, 8, 10, 12, 14, 16, 18, 20], [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]]"
+I like candy. I prefer chocolate because it is delicious and sweet.
+Playing is more important for children.
+I have been to the dentist 3 times in my life.
+"The first day of school,
+I was so excited to go,
+But when I got there,
+I realized that it wasn't fun."
+"A walk in the park,
+It's a nice place to be,
+You can see many people,
+And you can even meet me!"
+"function isPrime(n) {
+    if (n < 2) return false;
+    for (var i = 2; i <= Math.sqrt(n); i++) {
+    if (n % i == 0) return false;
+    }
+    return true;
+}
+for (var i = 1; i <= 100000; i++) {
+    var num = parseInt(i);
+    if (isPrime(num)) {
+        console.log(num);
+    }
+}"
+"Hello, I am a user."
+"function generatePassword(length, minDigits, maxLetters) {
+}"
+1011 -> 11
+1011 -> 7
+101
+11
+"print(""Hello World"")"
+"Artificial intelligence (AI) is intelligence exhibited by machines. In computer science AI research is defined as the study of ""intelligent agents"": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Colloquially, the term ""artificial intelligence"" is applied when a machine mimics ""cognitive"" functions that humans associate with other human minds, such as ""learning"" and ""problem solving""."
+"The Internet is a global system of interconnected computer networks that use the standard Internet protocol suite (TCP/IP) to serve billions of users worldwide. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet was developed in the late 1960s and early 1970s by the United States Department of Defense Advanced Research Projects Agency (ARPA). The technology behind the Internet was first proposed by computer scientist Vint Cerf and other members of the ARPANET team in 1969, and the term ""Internet"" was coined in a paper written by Cerf's colleague Bob Kahn in 1974. Since its inception, the Internet has grown from a military research project into a global platform for commerce, entertainment, education, and social interaction."
+The movie was made to show the importance of teamwork and how it can help you achieve your goals.
+"I was in a foreign city and had to get back to my hotel. I didn't have a map, so I couldn't figure out how to get there. I asked several people for directions but they all gave me conflicting information. Eventually, I found someone who spoke English and he told me that the easiest way to get there was to take the subway."
+"I drove my car.
+I took the bus.
+I walked.
+I biked.
+I used a ride-sharing service."
+"Yes, I have a question.
+Question: What is the best way to learn Python?"
+"Moscow, Saint Petersburg, Novosibirsk, Yekaterinburg, Nizhny Novgorod, Kazan, Samara, Omsk, Chelyabinsk, Rostov-on-Don."
+racecar
+abracadabra
+My favourite food is pizza.
+"I would be a cat because they are cute, cuddly and independent. They can also be very playful and mischievous."
+"[""cata"", ""tacat""]"
+"Teamwork is important because it allows people to work together towards a common goal. It also helps people learn from each other and develop new skills. Finally, teamwork can help people feel more connected with their peers."
+The spirit of service is the willingness to help others without expecting anything in return.
+"Dear [Friend],
+I miss you so much! I can’t believe that we are already a month apart. It feels like yesterday when we were hanging out together, watching movies and playing video games. Now, I have to spend my weekends alone, without you.
+I know that you are happy where you are now, but I still wish you could be here with me. I hope you will visit me soon.
+I love you,
+[Your Name]"
+I think the current political situation in the US is very bad.
+"In the past, people were worried about machines replacing physical labor, but today we are seeing artificial intelligence (AI) and machine learning (ML) being used in many industries. For example, self-driving cars have already started to replace taxi drivers, and AI is also being used in customer service. It’s only a matter of time until AI replaces most jobs."
+"The future of work is a topic that has been discussed for decades. The idea of robots taking over human jobs is not new, but it seems to be more relevant now than ever before. In the past, people were worried about machines replacing physical labor, but today we are seeing artificial intelligence (AI) and machine learning (ML) being used in many industries."
+"a - 4 times, e - 3 times, i - 2 times, o - 2 times, b - 1 time, c - 1 time, d - 1 time, f - 1 time, g - 1 time, h - 1 time, j - 1 time, k - 1 time, l - 1 time, m - 1 time, n - 1 time, p - 1 time, q - 1 time, r - 1 time, s - 1 time, t - 1 time, u - 1 time, v - 1 time, w - 1 time, x - 1 time, y - 1 time, z - 1 time"
+"The probability of getting a royal flush in poker is 1/649,740."
+"import random
+random.seed(1)
+x = random.randint(0, 1000000)
+print x"
+Yes
+I think it is a myth.
+101
+1111
+"- Optimistic
+- Creative
+- Ambitious
+- Friendly
+- Outgoing
+- Intelligent
+- Funny
+- Kind
+- Thoughtful
+- Hardworking
+- Caring"
+"- John Doe
+- Jane Smith"
+"def isEven(n):
+    if n % 2 == 0:
+    return True
+    else:
+    return False"
+"f(2) = 4, g(2) = 6"
+"def f(x):
+    return x + 2"
+"def sum(a, b):
+    return a + b"
+True
+False
+"def bestCity(cities):
+    best = None
+    for city in cities:
+        if city.weather > best.weather:
+        best = city
+    return best"
+"def isInSet(n, x):
+    if x % n == 0:
+      return True
+    else:
+      return False"
+"لا حاجة لأن يكون المتعب, إني برضوا مشي."
+أنا أحبك كثيرا
+ما طقطقة البيتزا
+الحمد لله ، والصلاة والسلام على رسول الله
+"def getPostalCode(address):
+    if len(address) == 0:
+    return None
+    else:
+    return address[0]"
+"I think that the government should not ban all guns. The right to bear arms is a fundamental part of American culture, and banning guns would be unconstitutional."
+"I think that the government should increase taxes on cigarettes. Cigarettes are harmful to people’s health, and it is the government’s responsibility to protect its citizens from harm."
+"Dear [Friend],
+I hope you are doing well. I am currently in [City] and enjoying the weather here. It is sunny and warm, but not too hot. The food here is great, especially the seafood. I’ve been to a few restaurants and tried some local dishes. I also went to the beach yesterday and had a lot of fun."
+"I am smart, funny and kind."
+"I am intelligent, hardworking and friendly."
+"I am [adjective 1], [adjective 2] and [adjective 3]."
+I prefer coffee because it is more refreshing than tea.
+2
+5
+False
+True
+"My favorite programming language is Python. I like it because it's easy to read and write, has a large standard library, and is used in many different fields."
+"def isBalanced(root):
+    if root.left == None:
+    return True"
+"def fibonacci(n):
+    if n == 0 or n == 1:
+    return n
+    return fibonacci(n-1) + fibonacci(n-2)"
+"Dear [Friend],
+I’m writing to ask you if you would like to go on a trip with me. I have always wanted to visit the Great Wall of China, and I think it would be great to do it together. We could also visit some other places in China, such as Shanghai or Hong Kong."
+"Dear [Friend],
+I’m writing to ask you if you would like to go on a trip with me. I have always wanted to visit the Statue of Liberty, and I think it would be great to do it together. We could also visit some other places in New York City, such as Times Square or Central Park."
+"Hi [Friend],
+I’m sorry I couldn’t make it last night. I got sick and had to stay home. Hope you had fun without me."
+"Text Message: Hey [Friend],
+Last night I went to a party with my friends. We had a lot of fun, and we danced all night long. It was great!"
+😃
+"Dear [Company],
+I am a big fan of your clothes. I have been wearing them for years and they are always comfortable, durable, and stylish. I especially like the [Clothes] you make because they fit me well and look great.
+I hope to continue buying your clothes in the future.
+Sincerely,
+[Your Name]"
+"Question 1: Do you prefer apples or oranges?
+- Apples
+- Oranges
+Question 2: How much do you like apples?
+- I love apples.
+- I like apples.
+- I don't like apples.
+Question 3: How much do you like oranges?
+- I love oranges.
+- I like oranges.
+- I don't like oranges."
+"Quick, Brown, Fox, Jumps, Over, Lazy, Dog."
+"I, Am, A, Programmer, And, I, Love, To, Code."
+I like Chinese food because it is healthy and delicious.
+"def convert_fahrenheit_to_celsius(fahrenheit):
+    celsius = (fahrenheit - 32) * 5 / 9
+    return celsius"
+"I think that eating meat is a good thing. It provides us with the necessary proteins and vitamins, and it tastes great! I don't see any reason why we shouldn't eat meat."
+False
+True
+c
+e
+0
+3
+"class Stack(object):
+    def __init__(self, capacity=0):
+    self.items = []
+    self.capacity = capacity
+    def push(self, item):
+    if len(self.items) >= self.capacity:
+    raise Exception(""Stack is full"")
+    self.items.append(item)
+    def pop(self):
+    return self.items.pop()
+    def peek(self):
+    return self.items[-1]"
+"Hi [Your Boss],
+I’m writing to you because I was hoping to take a vacation this year. However, after careful consideration of my current workload and the projects that are due in the next few months, I’ve decided not to take any time off."
+"- ai
+- ea- ie- oa- ue- ui"
+Email
+"I went to a party on Saturday. I met a lot of new people and had a great time. On Sunday, I went to the park with my friends. We played football for hours. It was really fun."
+"Sure, here you go."
+"Yes, I like it.
+No, I don't like it."
+"Yes, it is raining."
+A man is a woman without children.
+"Yes, it is possible."
