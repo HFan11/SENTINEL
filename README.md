@@ -16,11 +16,11 @@ Our contributions include the development of the custom `TextPreprocessor`, `Hyb
 1. Clone the repository:
 1. Clone the repository:
    ```
-   git clone https://github.com/NatalieCao323/AITextDetection.git
+   git clone https://github.com/Hfan11/SENTINEL.git
    ```
 2.  Navigate to the project directory and install the required dependencies:
    ```
-   cd AITextDetection
+   cd SENTINEL
    pip install -r requirements.txt
    ```
 
